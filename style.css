@@ -48,12 +48,16 @@ font-weight: 800;
 font-size: 25px;
 }
 .img_name{
-    width: 11rem;
+    
+    width: 9rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-weight: 800;
    
+}
+.img_name img{
+    width: 2rem;
 }
 .paragraph{
     color: var(--color-grey);
