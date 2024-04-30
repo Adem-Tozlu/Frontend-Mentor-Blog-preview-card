@@ -20,7 +20,7 @@ Dies ist eine Lösung für die [Blog-Vorschaukarte Herausforderung auf Frontend 
 
 ### Screenshot
 
-![Screenshot](/assets/images/screenshot_blog.png.png)
+![Screenshot](/assets/images/screenshot_blog.png)
 
 
 ### Links
